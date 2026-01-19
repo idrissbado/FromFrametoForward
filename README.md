@@ -112,7 +112,17 @@
 
 ## Example Diagram
 
-> _Add a diagram here using draw.io, PowerPoint, or Python for full marks!_
+![LAN Diagram](lan_diagram.png)
+
+---
+
+## Diagram Generation
+
+To generate or modify the diagram, run:
+```bash
+python lan_diagram.py
+```
+This will create or update `lan_diagram.png` with the current network layout.
 
 ---
 
